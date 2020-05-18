@@ -5,27 +5,3 @@
 .toctogglecheckbox:checked ~ ul {
 	display: none;
 }
-
-.infobox {
-    background: #eee;
-    border: 1px solid #aaa;
-    float: right;
-    margin: 0 0 1em 1em;
-    padding: 1em;
-    width: 400px;
-}
-.infobox-title {
-    font-size: 2em;
-    text-align: center;
-}
-.infobox-image {
-    text-align: center;
-}
-.infobox th {
-    text-align: left;
-    vertical-align: top;
-    width: 120px;
-}
-.infobox td {
-    vertical-align: top;
-}
