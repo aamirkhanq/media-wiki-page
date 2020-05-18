@@ -137,4 +137,3 @@ wfLoadExtension( 'PageImages' );
 # Add more configuration options below.
 wfLoadSkin( 'WPtouch' );
 $wgMFAutodetectMobileView = true;
-$wgHashedUploadDirectory = false
